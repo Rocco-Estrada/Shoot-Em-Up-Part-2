@@ -1,25 +1,16 @@
 ﻿<Properties StartupConfiguration="{B76AC549-1BA7-7E1D-8B42-B0599EBBC54B}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainMenu.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Credits.cs">
     <Files>
-      <File FileName="Assets/Scripts/Main Menu.cs" Line="9" Column="12" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="12" Column="42" />
+      <File FileName="../Shoot 'Em Up/Assets/Scripts/Enemy.cs" Line="50" Column="4" />
+      <File FileName="Assets/Scripts/Player.cs" Line="54" Column="10" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/Credits.cs" Line="10" Column="9" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Shoot 'Em Up Part 2" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="MainMenu.cs" selected="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9edd9fdd-1c6f-47bb-b005-4ed7cdf1aafa" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4e7b608d-7dc4-43ab-8fca-37f8b8066df1" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
